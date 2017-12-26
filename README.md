@@ -5,7 +5,7 @@
 [阴阳八卦](http://upload-images.jianshu.io/upload_images/9617841-58e3a8a32a7290ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 方案1：
-    HTML：
+HTML：
     ```
     <!DOCTYPE html>
     <html>
@@ -23,7 +23,7 @@
     </body>
     </html>
     ```
-    css：
+css：
     ```
     body{
         background-color: #aaa;
@@ -70,7 +70,7 @@
     }
     ```
 # 方案2：
-    HTML：
+HTML：
     ```
     <!DOCTYPE html>
     <html>
@@ -85,7 +85,7 @@
     </body>
     </html>
     ```
-    css：
+css：
     ```
     body{
         background-color: #aaa;
@@ -136,7 +136,7 @@
     }
     ```
 # 方案3
-    HTML：
+HTML：
     ```
     <!DOCTYPE html>
     <html>
@@ -153,7 +153,7 @@
     </body>
     </html>
     ```
-    css：
+css：
     ```
     body{
         background-color: #aaa;
