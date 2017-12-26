@@ -11,7 +11,7 @@ HTML：
     <html>
     <head>
         <meta charset="utf-8">
-        <title>JS Bin</title>
+        <title>Yin Yang</title>
         <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
@@ -76,7 +76,7 @@ HTML：
     <html>
     <head>
         <meta charset="utf-8">
-        <title>JS Bin</title>
+        <title>Yin Yang</title>
         <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
@@ -142,7 +142,7 @@ HTML：
     <html>
     <head>
         <meta charset="utf-8">
-        <title>JS Bin</title>
+        <title>Yin Yang</title>
         <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
