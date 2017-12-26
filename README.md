@@ -80,7 +80,7 @@ HTML：
         <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
-        <div class="yin-yang"></div>
+        <div id="yin-yang"></div>
         <p>乾为一，兑为二，离为三，震为四，巽为五，坎为六，艮为七，坤为八</p>
     </body>
     </html>
@@ -146,9 +146,7 @@ HTML：
         <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
-        <div id="yin-yang">
-
-        </div>
+        <div id="yin-yang"></div>
         <p>乾为一，兑为二，离为三，震为四，巽为五，坎为六，艮为七，坤为八</p>
     </body>
     </html>
