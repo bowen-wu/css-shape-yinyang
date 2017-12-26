@@ -6,6 +6,7 @@
 
 # 方案1：
 HTML：
+
     ```
     <!DOCTYPE html>
     <html>
@@ -23,7 +24,9 @@ HTML：
     </body>
     </html>
     ```
+
 css：
+
     ```
     body{
         background-color: #aaa;
@@ -69,8 +72,10 @@ css：
         text-align: center;
     }
     ```
+
 # 方案2：
 HTML：
+
     ```
     <!DOCTYPE html>
     <html>
@@ -85,7 +90,9 @@ HTML：
     </body>
     </html>
     ```
+
 css：
+
     ```
     body{
         background-color: #aaa;
@@ -135,8 +142,10 @@ css：
         text-align: center;
     }
     ```
+
 # 方案3
 HTML：
+
     ```
     <!DOCTYPE html>
     <html>
@@ -153,7 +162,9 @@ HTML：
     </body>
     </html>
     ```
+
 css：
+
     ```
     body{
         background-color: #aaa;
