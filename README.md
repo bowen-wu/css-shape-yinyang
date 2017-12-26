@@ -24,7 +24,7 @@ HTML：
     </html>
 
 css：
-```
+
     body{
         background-color: #aaa;
     }
@@ -68,12 +68,10 @@ css：
         color: #fff;
         text-align: center;
     }
-```
 
 # 方案2：
 HTML：
 
-    ```
     <!DOCTYPE html>
     <html>
     <head>
@@ -86,11 +84,9 @@ HTML：
         <p>乾为一，兑为二，离为三，震为四，巽为五，坎为六，艮为七，坤为八</p>
     </body>
     </html>
-    ```
 
 css：
 
-    ```
     body{
         background-color: #aaa;
     }
@@ -138,12 +134,10 @@ css：
         color: #fff;
         text-align: center;
     }
-    ```
 
 # 方案3
 HTML：
 
-    ```
     <!DOCTYPE html>
     <html>
     <head>
@@ -158,11 +152,9 @@ HTML：
         <p>乾为一，兑为二，离为三，震为四，巽为五，坎为六，艮为七，坤为八</p>
     </body>
     </html>
-    ```
 
 css：
 
-    ```
     body{
         background-color: #aaa;
     }
@@ -204,4 +196,3 @@ css：
         color: #fff;
         text-align: center;
     }
-    ```
